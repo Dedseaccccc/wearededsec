@@ -1,0 +1,39 @@
+html{
+    background-color: black;
+  
+
+}
+.gambar{
+    width: 100px;
+}
+.we{
+    color: white;
+}
+.navbar{
+ 
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.vde{
+    position: absolute;
+    top: 50%; left: 50%; 
+    transform: translate(-50%,-50%);
+}
+.e{
+    color: white;
+    position: absolute;
+    top: 70%; left: 45%;
+    font-size: large
+    
+}
+.ep{
+    color: white;
+    position: absolute;
+    top: 75%; left: 47%;
+     font-size: large;
+}
+.inp{
+    position: absolute;
+    top: 85%; left: 43.5%;
+}
